@@ -9,3 +9,6 @@ https://my-router-app.ardagon.workers.dev
 I have removed my account_id from wrangler.toml file.
 
 Thank you for considering my submission for the challenge.
+
+Shariq Ali
+shariq.mellon@gmail.com
