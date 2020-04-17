@@ -1,0 +1,6 @@
+name = "my-router-app"
+type = "webpack"
+account_id = "d9d305e54347e1c9315898346b2210d5"
+workers_dev = true
+route = ""
+zone_id = ""
