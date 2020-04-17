@@ -11,4 +11,5 @@ I have removed my account_id from wrangler.toml file.
 Thank you for considering my submission for the challenge.
 
 Shariq Ali
-\nshariq.mellon@gmail.com
+
+shariq.mellon@gmail.com
